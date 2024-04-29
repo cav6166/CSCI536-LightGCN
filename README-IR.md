@@ -1,7 +1,13 @@
+This repository uses the SSLRec framework to run experiments on the LightGCN 
+recommendation model. More information on SSLRec acn be found on the 
+[README-SSLRec.md](README-SSLRec.md) file.
+
+We use the LightGCN implementation included by default in the SSLRec models directory.
+
 ### Requirements
-See README-SSLREC.md
+See [README-SSLRec.md](README-SSLRec.md)
 ### USAGE
-See README-SSLREC.md
+See [README-SSLRec.md](README-SSLRec.md)
 ### Fine-tuning
 To modify fine-tuning for LightGCN, use file [lightgcn.yml](config/modelconf/lightgcn.yml)
 
