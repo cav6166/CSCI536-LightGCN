@@ -6,6 +6,8 @@ We use the LightGCN implementation included by default in the SSLRec models dire
 
 ### Requirements
 See [README-SSLRec.md](README-SSLRec.md)
+Additionally, install tensorboard using: conda install conda-forge::tensorboard
+
 ### USAGE
 See [README-SSLRec.md](README-SSLRec.md)
 ### Fine-tuning
