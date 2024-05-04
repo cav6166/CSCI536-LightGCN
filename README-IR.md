@@ -8,7 +8,7 @@ We use the LightGCN implementation included by default in the SSLRec models dire
 See [README-SSLRec.md](README.md)
 To install dgl: conda install -c dglteam/label/cu117 dgl
 Additionally, install tensorboard using: conda install conda-forge::tensorboard
-Might also nee to install yaml: conda install pyyaml
+Might also need to install yaml: conda install pyyaml
 
 ### USAGE
 See [README-SSLRec.md](README.md)
